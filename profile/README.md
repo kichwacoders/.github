@@ -4,6 +4,7 @@ The Eclipse CDT™ Project provides a fully functional C and C++ Integrated Deve
 
 See also https://projects.eclipse.org/projects/tools.cdt and https://eclipse.org/cdt
 
+
 ## Reporting issues
 
 The Eclipse CDT project is split into multiple Git repositories, which are all part of this organization. If you face an issue and have a sense of which particular GitHub repository is most related, you can open your issue against that repository. If you're unsure, you can open an issue against this current repositories and the issue will then be moved as best by maintainers.
